@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet easily missed, error in ActionScript 3: referencing an undefined variable. The `bug.as` file shows the erroneous code, while `bugSolution.as` presents the corrected version.  Understanding variable scope and initialization is crucial for avoiding this type of runtime exception.
